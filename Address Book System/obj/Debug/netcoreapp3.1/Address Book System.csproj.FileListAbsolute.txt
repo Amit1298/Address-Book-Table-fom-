@@ -1,0 +1,16 @@
+L:\BridgeLabz Solution\Dot net\September\08-09-2021\Address Book System\Address Book System\bin\Debug\netcoreapp3.1\Address Book System.exe
+L:\BridgeLabz Solution\Dot net\September\08-09-2021\Address Book System\Address Book System\bin\Debug\netcoreapp3.1\Address Book System.deps.json
+L:\BridgeLabz Solution\Dot net\September\08-09-2021\Address Book System\Address Book System\bin\Debug\netcoreapp3.1\Address Book System.runtimeconfig.json
+L:\BridgeLabz Solution\Dot net\September\08-09-2021\Address Book System\Address Book System\bin\Debug\netcoreapp3.1\Address Book System.runtimeconfig.dev.json
+L:\BridgeLabz Solution\Dot net\September\08-09-2021\Address Book System\Address Book System\bin\Debug\netcoreapp3.1\Address Book System.dll
+L:\BridgeLabz Solution\Dot net\September\08-09-2021\Address Book System\Address Book System\bin\Debug\netcoreapp3.1\Address Book System.pdb
+L:\BridgeLabz Solution\Dot net\September\08-09-2021\Address Book System\Address Book System\obj\Debug\netcoreapp3.1\Address Book System.csproj.AssemblyReference.cache
+L:\BridgeLabz Solution\Dot net\September\08-09-2021\Address Book System\Address Book System\obj\Debug\netcoreapp3.1\Address_Book_System.Form1.resources
+L:\BridgeLabz Solution\Dot net\September\08-09-2021\Address Book System\Address Book System\obj\Debug\netcoreapp3.1\Address Book System.csproj.GenerateResource.cache
+L:\BridgeLabz Solution\Dot net\September\08-09-2021\Address Book System\Address Book System\obj\Debug\netcoreapp3.1\Address Book System.GeneratedMSBuildEditorConfig.editorconfig
+L:\BridgeLabz Solution\Dot net\September\08-09-2021\Address Book System\Address Book System\obj\Debug\netcoreapp3.1\Address Book System.AssemblyInfoInputs.cache
+L:\BridgeLabz Solution\Dot net\September\08-09-2021\Address Book System\Address Book System\obj\Debug\netcoreapp3.1\Address Book System.AssemblyInfo.cs
+L:\BridgeLabz Solution\Dot net\September\08-09-2021\Address Book System\Address Book System\obj\Debug\netcoreapp3.1\Address Book System.csproj.CoreCompileInputs.cache
+L:\BridgeLabz Solution\Dot net\September\08-09-2021\Address Book System\Address Book System\obj\Debug\netcoreapp3.1\Address Book System.dll
+L:\BridgeLabz Solution\Dot net\September\08-09-2021\Address Book System\Address Book System\obj\Debug\netcoreapp3.1\Address Book System.pdb
+L:\BridgeLabz Solution\Dot net\September\08-09-2021\Address Book System\Address Book System\obj\Debug\netcoreapp3.1\Address Book System.genruntimeconfig.cache
